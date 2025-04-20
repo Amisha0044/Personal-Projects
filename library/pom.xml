@@ -47,9 +47,9 @@
 		</dependency>
 		-->
 		<dependency>
-		    <groupId>org.mariadb.jdbc</groupId>
-		    <artifactId>mariadb-java-client</artifactId>
-		    <version>3.3.2</version> <!-- use latest stable version -->
+		    	<groupId>org.mariadb.jdbc</groupId>
+		    	<artifactId>mariadb-java-client</artifactId>
+		    	<version>3.3.2</version> <!-- use latest stable version -->
 		</dependency>
 
 		<dependency>
