@@ -39,17 +39,16 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<!--
 		<dependency>
 			<groupId>com.mysql</groupId>
 			<artifactId>mysql-connector-j</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-		-->
+		<!-- https://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client -->
 		<dependency>
-		    	<groupId>org.mariadb.jdbc</groupId>
-		    	<artifactId>mariadb-java-client</artifactId>
-		    	<version>3.3.2</version> <!-- use latest stable version -->
+		    <groupId>org.mariadb.jdbc</groupId>
+		    <artifactId>mariadb-java-client</artifactId>
+		    <!-- use latest version -->
 		</dependency>
 
 		<dependency>
